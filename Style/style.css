@@ -123,6 +123,9 @@
     color: #fff;
 }
 
+
+/* 📱 Mobile Optimization */
+
 @media (max-width: 768px) {
     .slide {
         display: flex;
@@ -143,6 +146,13 @@
     .slide .image {
         width: 50%;
     }
+}
+
+
+/* ------------------------phone slider ------------------------ */
+
+.hero_for_phone {
+    display: none;
 }
 
 
