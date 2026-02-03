@@ -123,25 +123,26 @@
     color: #fff;
 }
 
-
-/* 📱 Mobile Optimization */
-
 @media (max-width: 768px) {
+    .slide {
+        display: flex;
+        flex-direction: row;
+        /* KEEP LEFT–RIGHT */
+        gap: 12px;
+        padding: 15px;
+    }
     .slide .text {
-        right: 20px;
-        width: 90%;
-        text-align: center;
+        width: 50%;
+        text-align: left;
+        right: 0;
     }
     .slide .text h2 {
-        font-size: 34px;
+        font-size: 20px;
+        line-height: 1.3;
     }
-}
-
-
-/* ------------------------phone slider ------------------------ */
-
-.hero_for_phone {
-    display: none;
+    .slide .image {
+        width: 50%;
+    }
 }
 
 
