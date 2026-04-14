@@ -104,33 +104,10 @@
         "category": "Woman",
         "description": "Cozy oversized sweatshirt."
     },
-
-    {
-        "id": 13,
-        "name": "Pride Sport Hip Pack",
-        "price": "$39.00",
-        "images": [
-            "images/Bags/Pride-Sport-Hip-Pack-_04.webp",
-            "images/Bags/Pride-Sport-Hip-Pack-_03.webp"
-        ],
-        "category": "Bags",
-        "description": "Hands-free hip pack."
-    },
-    {
-        "id": 14,
-        "name": "Dance Bag Nylon",
-        "price": "$189.00",
-        "images": [
-            "images/Bags/p27-3_7e6d6ca6-5882-4c64-a166-577d894b0ac3.webp",
-            "images/Bags/p27-1_1bcb95c6-a3da-4de5-b15e-ec08d4cb84b9.webp"
-        ],
-        "category": "Bags",
-        "description": "Durable gym/travel bag."
-    },
     {
         "id": 34,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
             "images/Bags/key1.webp"
         ],
@@ -141,7 +118,7 @@
     {
         "id": 35,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
             "images/Bags/key2.webp"
         ],
@@ -152,7 +129,7 @@
     {
         "id": 36,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
             "images/Bags/key3.webp"
         ],
@@ -163,7 +140,7 @@
     {
         "id": 37,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
             "images/Bags/key4.webp"
         ],
@@ -174,9 +151,9 @@
     {
         "id": 38,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
-            "images/Bags/key5.webp"
+            "images/Bags/key9.webp"
         ],
         "category": "Bags",
         "isTrending": true,
@@ -185,7 +162,7 @@
     {
         "id": 39,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
             "images/Bags/key6.webp"
         ],
@@ -196,7 +173,7 @@
     {
         "id": 40,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
             "images/Bags/key7.webp"
         ],
@@ -207,7 +184,7 @@
     {
         "id": 41,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
             "images/Bags/key8.webp"
         ],
@@ -218,9 +195,9 @@
     {
         "id": 42,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
-            "images/Bags/key9.webp"
+            "images/Bags/key5.webp"
         ],
         "category": "Bags",
         "isTrending": true,
@@ -229,7 +206,7 @@
     {
         "id": 43,
         "name": "Handmade Keychain Collection",
-        "price": "$35.00",
+        "price": "₹199 + Free Shipping",
         "images": [
             "images/Bags/key10.webp"
         ],
