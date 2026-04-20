@@ -1,39 +1,53 @@
 [{
         "id": 1,
-        "name": "Retro Sunglasses",
-        "price": "$225.00",
-        "images": ["images/Accessories/Retro-sunglasses_03.webp"],
+        "name": "Green Hair Clip Set",
+        "price": "₹300",
+        "images": ["images/Accessories/Hair1.webp"],
         "category": "Accessories",
-        "description": "These Retro Sunglasses offer a vintage-inspired look with modern protection."
+        "description": "A set of stylish green hair clips."
     },
     {
         "id": 2,
-        "name": "Miley Triangle Hair Scarf",
-        "price": "$22.00",
+        "name": "Green Hair Clip Set with one clip extra",
+        "price": "₹250",
         "images": [
-            "images/Accessories/scrf1.webp",
-            "images/Accessories/scrf2.webp",
-            "images/Accessories/scrf3.webp"
+            "images/Accessories/Hair2.webp"
         ],
         "category": "Accessories",
         "isTrending": true,
-        "description": "A versatile and stylish hair scarf."
+        "description": "A set of stylish green hair clips and one extra clip for added style."
     },
     {
         "id": 3,
-        "name": "Platform Canvas Sneakers",
-        "price": "$77.00",
-        "images": ["images/Accessories/Platform-Canvas-Sneakers_03.webp"],
+        "name": "Green Hair Clip – Fresh & Stylish Hair Accessory",
+        "price": "₹300",
+        "images": ["images/Accessories/Hair3.webp"],
         "category": "Accessories",
-        "description": "Comfortable and trendy sneakers."
+        "description": "A stylish green hair clip that adds a fresh, vibrant touch while keeping your hair neatly in place."
     },
     {
         "id": 4,
-        "name": "Quilted Heeled Mule Sandal",
-        "price": "$128.00",
-        "images": ["images/Accessories/Quilted-Heeled-Mule-Sandal_01.webp"],
+        "name": "Hair Band & Hair Clip – Stylish Everyday Hair Accessories",
+        "price": "₹150",
+        "images": ["images/Accessories/Hair4.webp"],
         "category": "Accessories",
-        "description": "Elegant and stylish sandals."
+        "description": "Stylish hair band and clip set, available online for a comfortable and chic everyday look."
+    },
+    {
+        "id": 39,
+        "name": "White Hair Clips – Elegant & Minimal Accessories",
+        "price": "₹250",
+        "images": ["images/Accessories/Hair6.webp"],
+        "category": "Accessories",
+        "description": "Clean and elegant white hair clips that offer a secure hold while adding a minimal, stylish touch to any look."
+    },
+    {
+        "id": 39,
+        "name": "Pink Bow Hair Clip – Cute & Elegant Statement Accessory",
+        "price": "₹250",
+        "images": ["images/Accessories/Hair7.webp"],
+        "category": "Accessories",
+        "description": "A soft pink bow hair clip with delicate detailing, perfect for adding a charming and stylish touch to your hairstyle while keeping your hair neatly secured."
     },
     {
         "id": 5,
@@ -48,14 +62,13 @@
     },
     {
         "id": 6,
-        "name": "Adilette Slide Sandal",
-        "price": "$85.00",
+        "name": "Pink Floral Bow Hair Clip – Elegant & Cute Accessory",
+        "price": "₹70",
         "images": [
-            "images/Accessories/Adilette-Slide-Sandal_01.webp",
-            "images/Accessories/Adilette-Slide-Sandal_color_01.webp"
+            "images/Accessories/Hair5.webp"
         ],
         "category": "Accessories",
-        "description": "Casual slide sandals."
+        "description": "A soft pink bow hair clip adorned with delicate floral detailing, perfect for adding a graceful and charming touch to any hairstyle while keeping your hair secure."
     },
     {
         "id": 7,
