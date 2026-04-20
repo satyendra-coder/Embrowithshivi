@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "name": "Ultimate Crop Bandeau Tops",
+        "name": "Alphabet Encraved handkerchief",
         "price": "₹200",
         "images": [
             "images/woman/handkerchief3.webp"
@@ -59,7 +59,7 @@
     },
     {
         "id": 7,
-        "name": "Pieces Short Sleeve Sweater",
+        "name": "Customized potrait handkerchief",
         "price": "₹200",
         "images": [
             "images/woman/handkerchief2.webp"
@@ -70,7 +70,7 @@
     },
     {
         "id": 8,
-        "name": "Simona Ribbed Cardigan",
+        "name": "Heart Shaped Teddy handkerchief",
         "price": "₹149",
         "images": [
             "images/woman/handkerchief1.webp"
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "name": "Oversized T-shirt Multi-colors",
+        "name": "Alphabet Designed handkerchief",
         "price": "₹149",
         "images": [
             "images/woman/handkerchief4.webp"
@@ -92,7 +92,7 @@
     },
     {
         "id": 10,
-        "name": "Classic Oversized Sweatshirt",
+        "name": "Rakhi special handkerchief",
         "price": "₹250",
         "images": [
             "images/woman/handkerchief8.webp"
@@ -102,7 +102,7 @@
     },
     {
         "id": 10,
-        "name": "Classic Oversized Sweatshirt",
+        "name": "Father's Day Gift special handkerchief",
         "price": "₹250",
         "images": [
             "images/woman/handkerchief6.webp"
@@ -112,7 +112,7 @@
     },
     {
         "id": 10,
-        "name": "Classic Oversized Sweatshirt",
+        "name": "Couple special designed handkerchief",
         "price": "₹249",
         "images": [
             "images/woman/handkerchief7.webp"
@@ -122,7 +122,7 @@
     },
     {
         "id": 10,
-        "name": "Classic Oversized Sweatshirt",
+        "name": "Heart shaped Designed handkerchief",
         "price": "₹149",
         "images": [
             "images/woman/handkerchief5.webp"
