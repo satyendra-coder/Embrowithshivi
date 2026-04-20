@@ -38,10 +38,9 @@
     {
         "id": 5,
         "name": "Ultimate Crop Bandeau Tops",
-        "price": "$22.00",
+        "price": "₹200",
         "images": [
-            "images/woman/ultimate-crop-bandeau-tops_01.webp",
-            "images/woman/ultimate-crop-bandeau-tops_black_01.webp"
+            "images/woman/handkerchief3.webp"
         ],
         "category": "Woman",
         "isTrending": true,
@@ -61,10 +60,9 @@
     {
         "id": 7,
         "name": "Pieces Short Sleeve Sweater",
-        "price": "$100.00",
+        "price": "₹200",
         "images": [
-            "images/woman/Pieces-short-sleeve-sweater_01.webp",
-            "images/woman/Pieces-short-sleeve-sweater_02.webp"
+            "images/woman/handkerchief2.webp"
         ],
         "category": "Woman",
         "isTrending": true,
@@ -73,10 +71,9 @@
     {
         "id": 8,
         "name": "Simona Ribbed Cardigan",
-        "price": "$82.00 - $89.00",
+        "price": "₹149",
         "images": [
-            "images/woman/Simona-Ribbed-Cardigan_05.webp",
-            "images/woman/Simona-Ribbed-Cardigan_03.webp"
+            "images/woman/handkerchief1.webp"
         ],
         "category": "Woman",
         "isTrending": true,
@@ -85,10 +82,9 @@
     {
         "id": 9,
         "name": "Oversized T-shirt Multi-colors",
-        "price": "$50.00",
+        "price": "₹149",
         "images": [
-            "images/woman/image68.webp",
-            "images/woman/image67.webp"
+            "images/woman/handkerchief4.webp"
         ],
         "category": "Woman",
         "isTrending": true,
@@ -97,9 +93,39 @@
     {
         "id": 10,
         "name": "Classic Oversized Sweatshirt",
-        "price": "$158.00",
+        "price": "₹250",
         "images": [
-            "images/woman/classic-oversized-sweatshirt_01.webp"
+            "images/woman/handkerchief8.webp"
+        ],
+        "category": "Woman",
+        "description": "Cozy oversized sweatshirt."
+    },
+    {
+        "id": 10,
+        "name": "Classic Oversized Sweatshirt",
+        "price": "₹250",
+        "images": [
+            "images/woman/handkerchief6.webp"
+        ],
+        "category": "Woman",
+        "description": "Cozy oversized sweatshirt."
+    },
+    {
+        "id": 10,
+        "name": "Classic Oversized Sweatshirt",
+        "price": "₹249",
+        "images": [
+            "images/woman/handkerchief7.webp"
+        ],
+        "category": "Woman",
+        "description": "Cozy oversized sweatshirt."
+    },
+    {
+        "id": 10,
+        "name": "Classic Oversized Sweatshirt",
+        "price": "₹149",
+        "images": [
+            "images/woman/handkerchief5.webp"
         ],
         "category": "Woman",
         "description": "Cozy oversized sweatshirt."
