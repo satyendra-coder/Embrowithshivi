@@ -255,22 +255,22 @@
     },
     {
         "id": 19,
-        "name": "Hoodie In Blue",
-        "price": "$198.00",
+        "name": "Customized Weeding hoops",
+        "price": "₹1999",
         "images": [
-            "images/man/hoodie-in-blue_01.webp"
+            "images/man/Hoop1.webp"
         ],
-        "category": "Man",
+        "category": "Hoop",
         "description": "Comfortable hoodie."
     },
     {
         "id": 20,
-        "name": "Jacket With Hood In Stone",
-        "price": "$266.00",
+        "name": "Customized Occasional hoops",
+        "price": "₹1200",
         "images": [
-            "images/man/jacket-with-hood-in-stone_02.webp"
+            "images/man/hoop2.webp"
         ],
-        "category": "Man",
+        "category": "Hoop",
         "isTrending": true,
         "description": "Stylish jacket."
     }
