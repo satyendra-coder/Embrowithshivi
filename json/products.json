@@ -261,7 +261,7 @@
             "images/man/Hoop1.webp"
         ],
         "category": "Hoop",
-        "description": "Comfortable hoodie."
+        "description": "Hoops customized for wedding occasions, featuring intricate designs and elegant craftsmanship to complement your special day."
     },
     {
         "id": 20,
@@ -272,6 +272,6 @@
         ],
         "category": "Hoop",
         "isTrending": true,
-        "description": "Stylish jacket."
+        "description": "Occasional hoops for family functions or traditional celebrations."
     }
 ]
